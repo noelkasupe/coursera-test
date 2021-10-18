@@ -1,0 +1,19 @@
+ol.noel li:nth-child(3):hover{
+background-color: gray;
+animation: step-start;
+
+}
+ol.noel li{
+	list-style: none;
+	border: 2px solid black;
+	display: block;
+	margin-bottom: 9px;
+	width: 250px;
+	text-transform: uppercase;
+	font-weight: bold;
+
+}
+body{
+
+	font-size: 150%;
+}
